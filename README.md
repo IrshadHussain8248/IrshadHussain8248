@@ -1,7 +1,7 @@
 ## Hi , I'm Irshad 
 
-- Computer Science Student at AISAT
-- Eager to learn new languages 
+- Computer Science Student at AISAT<br/>
+- Eager to learn new languages <br/>
 
 
 
